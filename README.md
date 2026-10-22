@@ -78,3 +78,10 @@ flowchart TB
 
 This is a documentation-only showcase. Production application code, backend configuration, credentials, and user data remain private. There is no runnable application or open-source implementation in this repository.
 
+## Related engineering projects
+
+- [SenSync mobile and wearable prototype](https://github.com/paluuuk/SenSync)
+- [Deal Preflight web product](https://github.com/paluuuk/deal-preflight)
+
+[View all selected engineering work](https://github.com/paluuuk)
+
